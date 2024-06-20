@@ -1,5 +1,7 @@
 <div align="center">
+<div style="display: inline-block; background-color: black; padding: 10px;">
 <img src="https://github.com/0xPolygonID/.github/blob/main/profile/logo.svg" width="350"/>
+</div>
 </div>
 <br />
 <div align="center">
