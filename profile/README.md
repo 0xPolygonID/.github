@@ -8,7 +8,7 @@
 
 </div>
 
-[ico-twitter]: https://img.shields.io/twitter/url?color=black&label=0xpolygonid&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2FPrivadoID
+[ico-twitter]: https://img.shields.io/twitter/url?color=black&label=PrivadoID&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2FPrivadoID
 
 [link-twitter]: https://twitter.com/PrivadoID
 
