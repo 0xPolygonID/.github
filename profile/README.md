@@ -1,6 +1,5 @@
 <div align="center">
 <img src="https://github.com/0xPolygonID/.github/blob/main/profile/logo.svg" width="350"/>
-<h1>(formerly Polygon ID)</h1>
 </div>
 <br />
 <div align="center">
