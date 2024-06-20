@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://github.com/0xPolygonID/.github/blob/main/profile/logo.svg" width="350"/>
+<h1>(formerly Polygon ID)</h1>
 </div>
 <br />
 <div align="center">
@@ -8,15 +9,15 @@
 
 </div>
 
-[ico-twitter]: https://img.shields.io/twitter/url?color=black&label=0xpolygonid&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2F0xpolygonid
+[ico-twitter]: https://img.shields.io/twitter/url?color=black&label=PrivadoID&logoColor=black&style=social&url=https%3A%2F%2Ftwitter.com%2FPrivadoID
 
-[link-twitter]: https://twitter.com/0xpolygonid
+[link-twitter]: https://twitter.com/PrivadoID
 
-# Polygon ID
+# Privado ID
 
-Polygon ID is a decentralized, private, self-sovereign identity framework with native Web3 integration, built on a permissionless blockchain.  
+Privado ID is a decentralized, private, self-sovereign identity framework with native Web3 integration, built on a permissionless blockchain.  
 
-Polygon ID allows:
+Privado ID allows:
 
 - Issuers to attest any type of identity related information by issuing claims
 - Users to hold claims in their wallet and portably use them to privately authenticate across platforms
@@ -27,6 +28,6 @@ Polygon ID allows:
 </div>
 
 ---
-# <div align="center"><b>[Polygon ID Docs](https://0xpolygonid.github.io/tutorials/)</b></div>
-# <div align="center"><b>[Polygon ID Smart Contracts](https://github.com/0xPolygonID/contracts)</b></div>
+# <div align="center"><b>[Privado ID Docs](https://devs.privado.id/)</b></div>
+# <div align="center"><b>[Privado ID Smart Contracts](https://github.com/0xPolygonID/contracts)</b></div>
 ---
