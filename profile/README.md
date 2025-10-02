@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://billions.network/"><img src="https://github.com/0xPolygonID/.github/blob/main/profile/Billions-logo.svg" height="120"/></a> <a href="https://www.privado.id/"><img src="https://github.com/0xPolygonID/.github/blob/main/profile/logo.svg" height="120"/></a>
+<a href="https://billions.network/" target="_blank"><img src="https://github.com/0xPolygonID/.github/blob/main/profile/billions.png" width="420px"/></a> <a href="https://www.privado.id/" target="_blank"><img src="https://github.com/0xPolygonID/.github/blob/main/profile/privado.png" width="420px"/></a>
 </div>
 <br />
 <div align="center">
